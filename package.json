@@ -1,0 +1,14 @@
+{
+  "name": "squiz-integration-refactoring-code-review",
+  "version": "1.0.0",
+  "description": "a simple api integration app for interview discussion around coding practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig Goodbrand",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
